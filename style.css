@@ -72,4 +72,6 @@ section{
     background-color: white;
     border-right: 7px solid;
 }
-
+.red-highlight{
+    color: red;
+}
