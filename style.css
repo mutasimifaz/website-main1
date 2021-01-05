@@ -46,7 +46,7 @@ section{
     box-shadow: 10px 20px 40px 0px  gray;
     border-radius: 5px;
     height: 80%;
-    background-
+
 }
 .experience{
     background-image: url("images/exp-bg.png");
@@ -65,3 +65,11 @@ section{
     border-image-slice: 1; 
     background-color: white;
 }
+#contact{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, cyan,red);
+    border-image-slice: 1; 
+    background-color: white;
+    border-right: 7px solid;
+}
+
